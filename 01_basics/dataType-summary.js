@@ -30,3 +30,6 @@ const myfuntion = function() { //Function
 }
 
 console.log(typeof BigInt); // function
+
+//  stack (Primitive) vs Heap (Reference/ Non-Primitive)
+
